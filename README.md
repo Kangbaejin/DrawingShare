@@ -14,7 +14,7 @@ Please send E-mail to : thdgusdddd@gmail.com
 
 We`ll send you invitation mail like this
 
-images
+![Image](TeamProjectHomepage/invite mail.png)
 
 You can accept or decline our invitation.
 
@@ -27,3 +27,5 @@ You can accept or decline our invitation.
 3. You can share a drawn image with users in real time.
 
 4. You can find the image by title and author.
+
+![Image](TeamProjectHomepage/oss_idea.png)
