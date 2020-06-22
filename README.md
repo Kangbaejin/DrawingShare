@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Drawing Share application Open Source Project
 
-You can use the [editor on GitHub](https://github.com/Kangbaejin/TeamProjectHomepage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are going to make application. It shares a image which you`ve just drawn in real time like messenger.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Shared image is uploded on DB. You can search and manage your imagaes with users.
 
-### Markdown
+You don`t need to use both drawing program and messenger together anymore if you use this application!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can see our github on [https://github.com/HyunilSong/TeamProject](https://github.com/HyunilSong/TeamProject)
 
-```markdown
-Syntax highlighted code block
+### If you want to join in this project (Welcome!!!)
 
-# Header 1
-## Header 2
-### Header 3
+Please send E-mail to : thdgusdddd@gmail.com
 
-- Bulleted
-- List
+We`ll send you invitation mail like this
 
-1. Numbered
-2. List
+images
 
-**Bold** and _Italic_ and `Code` text
+You can accept or decline our invitation.
 
-[Link](url) and ![Image](src)
-```
+### Brief description of structure
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Login is required because access to the repository must be restricted for each individual
 
-### Jekyll Themes
+2. If you sign in, you entered in drawing section.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kangbaejin/TeamProjectHomepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+3. You can share a drawn image with users in real time.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4. You can find the image by title and author.
