@@ -30,4 +30,4 @@ You can accept or decline our invitation.
 
 4. You can find the image by title and author.
 
-![Image](./oss_idea.png)
+![Image](./oss_idea_translated.png)
