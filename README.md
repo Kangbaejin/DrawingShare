@@ -14,7 +14,7 @@ Please send E-mail to : thdgusdddd@gmail.com
 
 We will send you invitation mail like this
 
-![Image](./invite mail.png)
+![Image](./invite_mail.png)
 
 You can accept or decline our invitation.
 
