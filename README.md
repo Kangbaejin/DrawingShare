@@ -35,7 +35,7 @@ You can accept or decline our invitation.
 ![Image](./oss_idea_translated.png)
 
 
-###Prerequisite
+### Prerequisite
 
 If you want to start this project, you will choose JellyBean or higher.
 
