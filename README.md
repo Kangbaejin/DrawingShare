@@ -1,10 +1,10 @@
 # Drawing Share application Open Source Project
 
-We are going to make application. It shares a image which you`ve just drawn in real time like messenger.
+We are going to make application. It shares a image which you have just drawn in real time like messenger.
 
 Shared image is uploded on DB. You can search and manage your imagaes with users.
 
-You don`t need to use both drawing program and messenger together anymore if you use this application!
+You do not need to use both drawing program and messenger together anymore if you use this application!
 
 You can see our github on [https://github.com/HyunilSong/TeamProject](https://github.com/HyunilSong/TeamProject)
 
@@ -12,9 +12,9 @@ You can see our github on [https://github.com/HyunilSong/TeamProject](https://gi
 
 Please send E-mail to : thdgusdddd@gmail.com
 
-We`ll send you invitation mail like this
+We will send you invitation mail like this
 
-![Image](TeamProjectHomepage/invite mail.png)
+![Image](./invite mail.png)
 
 You can accept or decline our invitation.
 
@@ -28,4 +28,4 @@ You can accept or decline our invitation.
 
 4. You can find the image by title and author.
 
-![Image](TeamProjectHomepage/oss_idea.png)
+![Image](./oss_idea.png)
