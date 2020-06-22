@@ -10,6 +10,7 @@ You can see our github on [https://github.com/HyunilSong/TeamProject](https://gi
 
 or using button on the top and right side "view project on github"
 
+
 ### If you want to join in this project (Welcome!!!)
 
 Please send E-mail to : thdgusdddd@gmail.com
@@ -19,6 +20,7 @@ We will send you invitation mail like this
 ![Image](./invite_mail.png)
 
 You can accept or decline our invitation.
+
 
 ### Brief description of structure
 
@@ -31,6 +33,7 @@ You can accept or decline our invitation.
 4. You can find the image by title and author.
 
 ![Image](./oss_idea_translated.png)
+
 
 ###Prerequisite
 
