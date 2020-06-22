@@ -2,7 +2,7 @@
 
 We are going to make application. It shares a image which you have just drawn in real time like messenger.
 
-Shared image is uploded on DB. You can search and manage your imagaes with users.
+Shared image is uploded on DB. You can search iamges which is uploaded by other users(by title and author).
 
 You do not need to use both drawing program and messenger together anymore if you use this application!
 
