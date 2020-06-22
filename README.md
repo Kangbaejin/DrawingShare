@@ -8,8 +8,6 @@ You do not need to use both drawing program and messenger together anymore if yo
 
 You can see our github on [https://github.com/HyunilSong/TeamProject](https://github.com/HyunilSong/TeamProject)
 
-or using button on the top and right side "view project on github"
-
 
 ### If you want to join in this project (Welcome!!!)
 
