@@ -31,3 +31,9 @@ You can accept or decline our invitation.
 4. You can find the image by title and author.
 
 ![Image](./oss_idea_translated.png)
+
+###Prerequisite
+
+If you want to start this project, you will choose JellyBean or higher.
+
+This is because our DB is based on firebase. It works on JellyBean or higher
